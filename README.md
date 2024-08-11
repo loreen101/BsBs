@@ -1,5 +1,5 @@
 ## Because of my love for cats I thought to create my first website about cats.
-<img src="./BsBs0.jpg" width="500" height="400"/>
+<img src="./BsBs0.jpg" width="90%" height="500"/>
 
 
 ## Implemetation:
