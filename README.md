@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/20e2ea0f-bebf-4099-a64f-ba9c66e0470b)## Because of my love for cats I thought to create my first website about cats.
-<img src="./BsBs0.jpg" width="300" height="200">
+## Because of my love for cats I thought to create my first website about cats.
+<img src="./BsBs0.jpg" width="500" height="400"/>
 
 
 ## Implemetation:
