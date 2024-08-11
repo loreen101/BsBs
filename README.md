@@ -1,4 +1,4 @@
-Because of my love for cats I thought to create my first website about cats.
+<h1> Because of my love for cats I thought to create my first website about cats. </h1>
 ![BsBs0](https://github.com/user-attachments/assets/1269b1fe-7f02-40ff-b17c-eed124ce4f29)
 
 I implemented BsBs first using React then applied the same design just using Next.JS framework. 
